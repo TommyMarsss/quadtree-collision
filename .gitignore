@@ -20,3 +20,6 @@ go.work.sum
 
 # Demo 生成的静态报告
 /report.html
+
+# 四叉树回放页（go run . 生成）
+/replay.html
